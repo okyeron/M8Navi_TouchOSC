@@ -1,6 +1,8 @@
 # M8Navi_TouchOSC
 
-TouchOSC template to control Headless version of the M8 Tracker
+TouchOSC template to control Headless version of the M8 Tracker.
+
+Requires Mk2 version of [TouchOSC](https://hexler.net/touchosc) - which works on Windows / macOS / Linux / iOS / Android.
 
 Still a bit of a work in progress
 
